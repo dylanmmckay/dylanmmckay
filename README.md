@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I teach CS Theory courses here at Yale, and I love teaching, math, and of course CS Theory!
+
 <!--
 **dylanmmckay/dylanmmckay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
